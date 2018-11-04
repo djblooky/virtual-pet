@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\bin\Debug\P2VirtualPet.exe.config
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\bin\Debug\P2VirtualPet.exe
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\bin\Debug\P2VirtualPet.pdb
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\obj\Debug\P2VirtualPet.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\obj\Debug\P2VirtualPet.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\obj\Debug\P2VirtualPet.exe
+D:\Documents\Visual Studio 2017\Projects\P2VirtualPet\P2VirtualPet\obj\Debug\P2VirtualPet.pdb
